@@ -28,5 +28,5 @@ bash <(curl -L https://raw.githubusercontent.com/Ruclua99/Surveillance-Station/m
 ```
 ---
 ### Cracked
-![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/crack_license.png)
+![License](https://raw.githubusercontent.com/Ruclua99/Surveillance-Station/main/img/crack_license.png)
 Tác Giả: https://github.com/volitationgit/Surveillance-Station
